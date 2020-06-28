@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name    = "curb"
+  s.name    = "plr-curb"
   s.authors = ["Ross Bamford", "Todd A. Fisher"]
   s.version = '0.9.10'
   s.date    = '2019-04-18'
